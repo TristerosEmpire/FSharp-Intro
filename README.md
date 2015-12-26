@@ -7,4 +7,5 @@ Solutions for the problems :
 - Module 1
 - Module 2
 - Module 3
-And because I'm lazy I didn't do the last one :)
+
+And because I'm lazy I didn't do the last one :) All codes presented here are in a real quick & dirty style. We can add a bunch of optimizations and functionalities ! Don't copy stupidly the code : learn, try and modify.
